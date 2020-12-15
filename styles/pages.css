@@ -1,0 +1,58 @@
+
+body {
+  background-color: #EAE1D8;
+  font-family: 'Raleway', 'Arial Narrow', sans-serif;
+  color: #023330;
+}
+
+#nav_title {
+  font-family: 'Abril Fatface', 'Georgia', serif;
+  color: #EED2C2;
+  text-shadow: 2px 0 #B56E52;
+}
+
+nav {
+  background-color: #06332E;
+}
+
+#homepage_link {
+  color: #EED2C2;
+}
+
+.container {
+  padding: 1.5em 0 2em;
+}
+
+h1 {
+  font-family: 'Abril Fatface', 'Georgia', serif;
+  color: #023330;
+}
+
+#options_title {
+  padding: 1em 0 0;
+}
+
+#alternatives {
+  font-family: 'Abril Fatface', 'Georgia', serif;
+  color: #023330;
+  padding: 1em 0 0;
+}
+
+#natasha, #nathan, #izabela {
+  font-size: 0.75em;
+}
+
+#christine {
+  font-size: 0.73em;
+}
+
+#footer {
+  color: #EAE1D8;
+  background-color: #112621;
+}
+
+
+/* unvisited link */
+a:link {
+ color: #B56E52;
+}
